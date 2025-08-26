@@ -1,5 +1,11 @@
 # open-next
 
+## 3.7.6
+
+### Patch Changes
+
+- [#959](https://github.com/opennextjs/opennextjs-aws/pull/959) [`31c3740ce7e7058295f2e268b7da251f8afccf5f`](https://github.com/opennextjs/opennextjs-aws/commit/31c3740ce7e7058295f2e268b7da251f8afccf5f) Thanks [@vicb](https://github.com/vicb)! - fix(cacheInterceptor): route cache handling
+
 ## 3.7.5
 
 ### Patch Changes

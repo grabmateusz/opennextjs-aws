@@ -1,5 +1,12 @@
 # app-router
 
+## 0.1.30
+
+### Patch Changes
+
+- Updated dependencies [[`31c3740ce7e7058295f2e268b7da251f8afccf5f`](https://github.com/opennextjs/opennextjs-aws/commit/31c3740ce7e7058295f2e268b7da251f8afccf5f)]:
+  - @opennextjs/aws@3.7.6
+
 ## 0.1.29
 
 ### Patch Changes
