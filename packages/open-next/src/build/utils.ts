@@ -4,7 +4,7 @@ import logger from "../logger.js";
 
 export function printHeader(header: string) {
   // biome-ignore lint/style/noParameterAssign:
-  header = `OpenNext — ${header}`;
+  header = `OpenNext (Customised) — ${header}`;
   logger.info(
     [
       "",
